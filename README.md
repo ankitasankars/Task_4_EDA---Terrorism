@@ -7,7 +7,7 @@ This repository contains one of the tasks that I completed while working as an i
 - **Internship Duration** - 2 Months (June-2021)
 - **Internship Type** - Work from Home
 <br><br>
-<img height="30" src="https://img.shields.io/badge/Exploratory Data Analysis - Terrorism -Level  Intermediate-purple.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<img height="30" src="https://img.shields.io/badge/Exploratory Data Analysis on Terrorism -Level  Intermediate-purple.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
 <br>
 
 > Problem statement :
